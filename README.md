@@ -4,7 +4,7 @@ This project demonstrates how to build a calculator using React.
 
 ## Description of tasks to be completed?
 
-Create a dynamic calculator which can perform all the mathematical operations of a normal calculator.
+Create a dynamic calculator which can perform all the mathematical operations of a normal calculator. This was a Udemy course that I used to level up on React and state management.
 
 ## How should this be manually tested?
 
