@@ -16,7 +16,6 @@ Create a dynamic calculator which can perform all the mathematical operations of
 
 from your browser you will see a calculator with all the fanctionalities
 
-## Snapshots to the project:
 
 
 
